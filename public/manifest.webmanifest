@@ -1,0 +1,13 @@
+{
+  "name": "TERRAVOX — Environmental Intelligence",
+  "short_name": "TERRAVOX",
+  "description": "Wildfire early-warning, administrative boundary intelligence, and emergency response platform for California, USA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070b09",
+  "theme_color": "#22c55e",
+  "lang": "en",
+  "icons": [
+    { "src": "/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

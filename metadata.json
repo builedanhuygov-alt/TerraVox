@@ -1,0 +1,6 @@
+{
+  "name": "TERRAVOX — Environmental Intelligence Platform",
+  "description": "Listen to the Earth. Understand the Signals. Act with Confidence. Next-generation environmental intelligence platform for forest-fire early warning, geospatial monitoring, disaster response, and regional sustainability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
