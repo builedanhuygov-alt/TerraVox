@@ -22,3 +22,6 @@ venv/
 scratch/
 .aistudio/
 
+
+.vercel
+.env*.local

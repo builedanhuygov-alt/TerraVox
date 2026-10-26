@@ -2,7 +2,7 @@
 // build time (Vercel project env). The fallback MUST be a reachable production
 // backend — never http://localhost:8000, which breaks the deployed site with
 // mixed-content errors (the viewer's own machine has no backend running).
-export const API_BASE = (import.meta.env.VITE_API_BASE || 'https://backend-dan1775.vercel.app').replace(/\/$/, '')
+export const API_BASE = (import.meta.env.VITE_API_BASE || 'https://gialai-backend-fresh.vercel.app').replace(/\/$/, '')
 const BASE = API_BASE
 
 // Backend returns photo paths relative to its own origin (/api/forest/...);

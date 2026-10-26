@@ -7,3 +7,6 @@ gialai-key.json
 *.sqlite3
 __pycache__/
 *.pyc
+
+.vercel
+.env*.local
